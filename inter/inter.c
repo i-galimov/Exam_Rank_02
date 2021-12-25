@@ -24,7 +24,6 @@ void inter(char *str1, char *str2) {
         }
         i++;
     }
-
 }
 
 int    main(int argc, char **argv)
