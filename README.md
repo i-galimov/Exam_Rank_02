@@ -1,7 +1,7 @@
 # Exam_Rank_02 (Ecole 42) 
 
 ### Содержание
-> *Если ты выбрал легкий путь, то ты обойдешь стороной printf*
+> *Если ты выбрал легкий путь, то ты обойдешь стороной printf!*
 * [**Inter**](https://github.com/i-galimov/Exam_Rank_02/tree/main/inter)
 * [**Union**](https://github.com/i-galimov/Exam_Rank_02/tree/main/union)
 * [**Get_next_line**](https://github.com/i-galimov/Exam_Rank_02/tree/main/get_next_line)
