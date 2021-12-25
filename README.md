@@ -9,20 +9,7 @@
 ### [Пример кода](https://github.com/i-galimov/Exam_Rank_02/blob/main/get_next_line/get_next_line.c)
 > *Куда ты, тропинка, меня привела?*
 ```
-// get_next_line.h   
-#ifndef GET_NEXT_LINE
-# define GET_NEXT_LINE
-
-#include <unistd.h>
-#include <stdlib.h>
-
-int get_next_line(char **line);
-
-#endif
-
-// get_next_line.c
 #include "get_next_line.h"
-// #include <stdio.h>
 
 int get_next_line(char **line)
 {
@@ -35,15 +22,6 @@ int get_next_line(char **line)
     *line = buf;
     return (j);
 }
-
-/* int main(void)
-{
-    int r = 0;
-    char *line;
-    while ((r = get_next_line(&line)) > 0)
-    printf("%s\n", line);
-    free(line); 
-} */
 ```
 ********
 > ***Не принято гордиться тем, что выбрал легкий путь. Но принято гордиться тем, что пришел к цели! Чтобы ты не выбрал - ты достоин уважения, пока идешь вперед!***
