@@ -1,5 +1,5 @@
 #include "get_next_line.h"
-//#include <stdio.h>
+// #include <stdio.h>
 
 int get_next_line(char **line)
 {
