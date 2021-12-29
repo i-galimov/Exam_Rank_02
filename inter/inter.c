@@ -1,6 +1,7 @@
 #include <unistd.h>
 
-void inter(char *str1, char *str2) {
+void inter(char *str1, char *str2) 
+{
     int i;
     int ascii[256] = {0};
 
