@@ -11,7 +11,6 @@ void inter(char *str1, char *str2) {
             ascii[(int)str2[i]] = 1;
         i++;
     }
-
     i = 0;
     while (str1[i])
     {
