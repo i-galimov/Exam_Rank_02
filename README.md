@@ -5,7 +5,7 @@
 * [**Inter**](https://github.com/i-galimov/Exam_Rank_02/tree/main/inter)
 * [**Union**](https://github.com/i-galimov/Exam_Rank_02/tree/main/union)
 * [**Get_next_line**](https://github.com/i-galimov/Exam_Rank_02/tree/main/get_next_line)
----
+* [**Printf**](https://github.com/i-galimov/Exam_Rank_02/tree/main/ft_printf_exam)
 ### [Пример кода](https://github.com/i-galimov/Exam_Rank_02/blob/main/get_next_line/get_next_line.c)
 > *Куда ты, тропинка, меня привела?*
 ```
